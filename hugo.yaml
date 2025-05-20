@@ -20,7 +20,7 @@ markup:
 #   googleAnalytics:
 #     ID: G-MEASUREMENT_ID
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 languages:
   es:
     languageName: Español
